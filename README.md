@@ -235,22 +235,6 @@ Nainshi
 
 
 
----
-
-If you want:
-
-✔ a **GitHub project banner image**  
-✔ repository tags  
-✔ shields.io badges  
-✔ a LICENSE file  
-✔ CONTRIBUTING.md  
-✔ a professional ASCII architecture diagram  
-
-Just say **“add GitHub enhancements”**.
-
-
-
-
 
 
 
